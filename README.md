@@ -33,7 +33,7 @@
 	  
 	  
 	<br> you can watch your profits grow here. <br>
-     below are the details of your plan 
+     below are the details of your plan ⬇⬇
 	  
 </body>
 </html> 
@@ -95,7 +95,7 @@
 
 </body>
 <html>
-<a href="mailto:worldcryptomine@gmail.com.com">Contact Us</a>
+<a href="mailto:worldcryptomine@gmail.com.com">Contact Us📩</a>
 </html>
 
 
