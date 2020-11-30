@@ -32,6 +32,9 @@
 
 
 
+<a href="default.asp">
+<img src="PicsArt_11-28-05.03.21.png" alt="https://worldcryptomine.wixsite.com/worldcryptomine-2 " style="width:42px;height:42px;">
+</a>
 
 
 
