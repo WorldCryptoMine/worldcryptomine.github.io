@@ -47,13 +47,13 @@
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
+
 </style>
 
 <body>
 
 <button class="button button1">WITHDRAW</button>
-<button class="button button2">CANCEL</button>
+
 
 </body>
 </html>
