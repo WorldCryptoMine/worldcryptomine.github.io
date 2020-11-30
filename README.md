@@ -37,8 +37,10 @@
   <body>
 	<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 	<div class="commonninja_component" comp-type="chart" comp-id="43eb8e57-bec6-431e-8abf-adf18ef16663"></div>
- 
-
+	  <br>
+ <p style="color:blue">Exchange Rates.</p>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component" comp-type="comparison_table" comp-id="8779a238-5dcd-4072-81bd-7d30ccb9fab1"></div>
 
 
 <a href="default.asp">
