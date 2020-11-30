@@ -46,8 +46,8 @@
   cursor: pointer;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
+.button1 {background-color: #4CAF50;} /* Withdraw */
+.button2 {background-color: #008CBA;} /* Cancel */
 </style>
 
 <body>
