@@ -4,13 +4,19 @@
 
 <html>
  <head>
-	 <image src="PicsArt_11-28-05.03.21.png" alt="WCM logo">
+	
 
     <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="styles/style.css"/>
     <title>Welcome</title>
   </head>
   <body>
+	<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
+
+<p><img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
+
+
     <h2 style="text-align: center;">
       Welcome Mr Marcus Royal
     </h2>
