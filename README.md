@@ -35,7 +35,7 @@
 <a href="default.asp">
 	
 
-<img src="PicsArt_11-28-05.03.21.png" alt="WCM LOGO">
+<img src="internal storage/Pictures/picsArt="PicsArt_11-28-05.03.21.png" alt="WCM LOGO">
 
   
   
