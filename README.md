@@ -34,8 +34,14 @@
 
 <a href="default.asp">
 	
-<img src="puma1.png" alt="https://worldcryptomine.wixsite.com/worldcryptomine-2 " style="width:42px;height:42px;">
-</a>
+
+<picture>
+  
+  <source picsart="(min-width:650px)" srcset="PicsArt_11-28-05.03.21.png">
+  <source picsart="(min-width:465px)" srcset="PicsArt_11-28-05.03.21.png">
+  <img src="PicsArt_11-28-05.03.21.png" alt="picsart" style="width:auto;">
+</picture>
+
 
 
 
