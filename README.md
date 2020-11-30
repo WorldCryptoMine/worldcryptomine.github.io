@@ -1,5 +1,11 @@
 # worldcryptomine.github.io
+<!DOCTYPE html>
 <html>
+  <body>
+	<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+	<div class="commonninja_component" comp-type="chart" comp-id="43eb8e57-bec6-431e-8abf-adf18ef16663"></div>
+  </body>
+</html>		
 
 
 
