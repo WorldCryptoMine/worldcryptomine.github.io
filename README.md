@@ -5,6 +5,8 @@
 <html>
  <head>
 	
+   
+    
 
     <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="styles/style.css"/>
@@ -12,6 +14,12 @@
   </head>
   <body>
 	
+  <title>HTML Backgorund Color</title>
+   
+   <body style="background-color:grey;">
+      <h1>Products</h1>
+      <p>We have developed more than 10 products till now.</p>
+   </body>
 
 
 
