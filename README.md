@@ -25,7 +25,7 @@
 	  
 	  
 	<br> you can watch your profits grow here.
-     below are the details of your plan </br> 
+     below are the details of your plan 
 	  
 </body>
 </html> 
