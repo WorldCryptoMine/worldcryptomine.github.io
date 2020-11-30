@@ -4,6 +4,8 @@
 
 <html>
  <head>
+	 <image src="PicsArt_11-28-05.03.21.png" alt="WCM logo">
+
     <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="styles/style.css"/>
     <title>Welcome</title>
