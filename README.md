@@ -33,6 +33,7 @@
 
 
 <a href="default.asp">
+	target="_blank">
 <img src="IMG_20201113_014050_281.jpg" alt="https://worldcryptomine.wixsite.com/worldcryptomine-2 " style="width:42px;height:42px;">
 </a>
 
