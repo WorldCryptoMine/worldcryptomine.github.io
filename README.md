@@ -37,9 +37,9 @@
 
 <picture>
   
-  <source picsart="(min-width:650px)" srcset="PicsArt_11-28-05.03.21.png">
-  <source picsart="(min-width:465px)" srcset="PicsArt_11-28-05.03.21.png">
-  <img src="PicsArt_11-28-05.03.21.png" alt="picsart" style="width:auto;">
+  <source media="(min-width:650px)" srcset="content://com.android.chrome.FileProvider/images/screenshot/1606738284049376837307.jpg">
+  <source media="(min-width:465px)"content://com.android.chrome.FileProvider/images/screenshot/1606738414251-1733278067.jpg">
+  <img src="content://com.android.chrome.FileProvider/images/screenshot/1606738414251-1733278067.jpg" alt="picsart" style="width:auto;">
 </picture>
 
 
