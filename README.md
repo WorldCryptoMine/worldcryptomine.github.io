@@ -83,7 +83,9 @@
 
 
 </body>
-
+<html>
+<a href="mailto:worldcryptomine@gmail.com.com">Contact Us</a>
+</html>
 
 
 
