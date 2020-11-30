@@ -3,7 +3,7 @@
 
 
 <html>
-  <head>
+ <head>
     <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="styles/style.css"/>
     <title>Welcome</title>
@@ -49,7 +49,7 @@
 .button1 {background-color: #4CAF50;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
-</head>
+
 <body>
 
 <button class="button button1">Green</button>
