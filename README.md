@@ -12,8 +12,9 @@
     <h2 style="text-align: center;">
       Welcome Mr Marcus Royal
     </h2>
-    This is your personal WCM account for supervising your investment<br> you can watch your profits grow here.<br>
-     below are the details of your plan 
+    WCM Account @MarcusRoyal<br> you can watch your profits grow here.<br>
+     below are the details of your plan
+	  <p style="color:red">WCM Account @MarcusRoyal.</p>
 </body>
 </html> <br>
 <br>
