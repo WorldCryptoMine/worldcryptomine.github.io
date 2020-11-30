@@ -14,7 +14,7 @@
 	
 
 
-<p><img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
+
 
 
     <h2 style="text-align: center;">
@@ -25,11 +25,12 @@
 	  
 	  
 	<br> you can watch your profits grow here.<br>
-     below are the details of your plan
+     <br>below are the details of your plan</br> 
 	  
 </body>
-</html> <br>
+</html> 
 <br>
+
 
 
 <html>
