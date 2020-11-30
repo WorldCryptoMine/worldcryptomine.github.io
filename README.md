@@ -32,7 +32,7 @@
 	  
 	  
 	  
-	<br> you can watch your profits grow here.
+	<br> you can watch your profits grow here. <br>
      below are the details of your plan 
 	  
 </body>
