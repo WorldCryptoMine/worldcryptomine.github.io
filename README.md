@@ -12,9 +12,13 @@
     <h2 style="text-align: center;">
       Welcome Mr Marcus Royal
     </h2>
-    WCM Account @MarcusRoyal<br> you can watch your profits grow here.<br>
+    <p style="color:red">WCM Account @MarcusRoyal.</p>
+	  
+	  
+	  
+	<br> you can watch your profits grow here.<br>
      below are the details of your plan
-	  <p style="color:red">WCM Account @MarcusRoyal.</p>
+	  
 </body>
 </html> <br>
 <br>
